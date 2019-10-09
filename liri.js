@@ -12,10 +12,10 @@ var fs = require('fs');
 var moment = require('moment');
 
 // CHANGE  CODE  FOR  THE VAR
-var Movie = require('./test.js files/movies.js/index.js');
+var Movie = require('./test.js files/movies.js');
 var movie = new Movie();
 // Requiring our Movies function exported from omdb.js
-var myConcert = require("./test.js files/concerts.js/index.js");
+var myConcert = require("./test.js files/concerts.js");
 
 var request = require('request');
 

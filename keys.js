@@ -17,6 +17,6 @@ exports.omdb = {
 // console.log('Bands In Town API is loaded. ');
 
 exports.bandsInTown = {
-  id: process.env.BANDS_IN_TOWN_ID,
+  id: process.env.e37a94c7f9c1ad12af0271ccf3985c21,
 };
 
